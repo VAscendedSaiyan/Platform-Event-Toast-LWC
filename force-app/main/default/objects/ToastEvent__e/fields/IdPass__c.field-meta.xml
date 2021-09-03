@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IdPass__c</fullName>
+    <description>Pass the record Id for record pop</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Pass the record Id for record pop</inlineHelpText>
+    <isFilteringDisabled>false</isFilteringDisabled>
+    <isNameField>false</isNameField>
+    <isSortingDisabled>false</isSortingDisabled>
+    <label>IdPass</label>
+    <length>255</length>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
